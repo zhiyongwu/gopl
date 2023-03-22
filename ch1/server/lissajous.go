@@ -53,4 +53,5 @@ func lissajous(out io.Writer, cycles float64) {
 
 	}
 	gif.EncodeAll(out, &anim)
+
 }
