@@ -19,6 +19,7 @@ func main() {
 	lissajousHandler := func(w http.ResponseWriter, r *http.Request) {
 		r.ParseForm()
 		cycles := r.Form.Get("cycles")
+
 		cyclesInt, _ := strconv.ParseFloat(cycles, 32)
 		lissajous(w, cyclesInt)
 	}
