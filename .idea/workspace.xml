@@ -4,43 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61abad96-6278-42f1-a883-7b6d6a8e4d78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch2/cf/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch2/others/echo4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch2/others/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch2/others/pointer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch2/others/value.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch2/popcount/popcount.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch2/scope/scope.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch2/temperature/conv.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch2/temperature/tempconv.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch3/mandelbrot.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch3/s.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch3/surface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/dup1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/dup1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/dup2.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/dup2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/dup3.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/dup3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/echo1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/echo1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/echo2.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/echo2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/echo3.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/echo3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/fetch.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/fetch.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/fetchall.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/fetchall.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/hello/hello" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/hello/hello" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/hello/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/hello/hello.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/input" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/out.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/out.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/server/lissajous.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/server/lissajous.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/server/server" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/server/server" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/server/server2.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/server/server2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/server1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/server1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/ftoc.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch2/others/ftoc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gopl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gopl.iml" afterDir="false" />
+    <list default="true" id="61abad96-6278-42f1-a883-7b6d6a8e4d78" name="Changes" comment="feat: add ch3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/s.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3/s.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,26 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "configurable..is.expanded": "true",
-    "configurable.GoLibrariesConfigurable.is.expanded": "true",
-    "go.import.settings.migrated": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;true&quot;,
+    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.goide.configuration.GoLibrariesConfigurableProvider&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -295,6 +261,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add ch3" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add ch3" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
