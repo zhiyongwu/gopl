@@ -1,9 +1,8 @@
 package main
 
 import (
-	"ch2/temperature"
 	"fmt"
-
+	"gopl/ch2/temperature"
 	"os"
 	"strconv"
 )
