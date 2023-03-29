@@ -17,13 +17,14 @@ func main() {
 		}
 		//b, err := io.ReadAll(resp.Body)
 
-		_, err = io.Copy(os.Stdout, resp.Body)
+		b, err := io.ReadAll(resp.Body)
 		if err != nil {
 			fmt.Fprintf(os.Stderr, "fetch reading : %v\n", err)
 			os.Exit(1)
 		}
-		fmt.Println(resp.StatusCode)
+
 		resp.Body.Close()
+		fmt.Printf("%s", b)
 		//fmt.Println(written)
 		//if nil != err {
 		//	fmt.Fprintf(os.Stderr, "fetch reading : %v\n", err)
